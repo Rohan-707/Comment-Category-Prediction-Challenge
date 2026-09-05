@@ -251,12 +251,7 @@ The submission file is created in the following format:
 | 1 | category |
 | 2 | category |
 | 3 | category |
-
-- ID,label
-- 1,category
-- 2,category
-- 3,category
-- ...
+...
 
 The generated file is:   submission.csv
 
