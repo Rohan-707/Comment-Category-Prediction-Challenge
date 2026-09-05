@@ -258,14 +258,14 @@ The generated file is:   submission.csv
 
 ## 💻 Technologies & Libraries
 
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
-XGBoost
-LightGBM
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- XGBoost
+- LightGBM
 
 ## Machine Learning Techniques
 Exploratory Data Analysis
