@@ -246,11 +246,11 @@ After training the final stacking model on the complete training dataset, predic
 
 The submission file is created in the following format:
 
-ID,label
-1,category
-2,category
-3,category
-...
+- ID,label
+- 1,category
+- 2,category
+- 3,category
+- ...
 
 The generated file is:   submission.csv
 
