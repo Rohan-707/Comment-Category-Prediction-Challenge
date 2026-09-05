@@ -268,16 +268,16 @@ The generated file is:   submission.csv
 - LightGBM
 
 ## Machine Learning Techniques
-Exploratory Data Analysis
-Feature Engineering
-TF-IDF
-Logistic Regression
-Random Forest
-XGBoost
-LightGBM
-Randomized Search
-Cross-Validation
-Stacking Ensemble
+- Exploratory Data Analysis
+- Feature Engineering
+- TF-IDF
+- Logistic Regression
+- Random Forest
+- XGBoost
+- LightGBM
+- Randomized Search
+- Cross-Validation
+- Stacking Ensemble
 
 ---
 
