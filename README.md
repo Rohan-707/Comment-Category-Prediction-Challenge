@@ -237,3 +237,18 @@ The final workflow can be summarized as:
                  ┌────────▼─────────┐
                  │ Final Prediction │
                  └──────────────────┘
+```
+
+## Submission
+
+After training the final stacking model on the complete training dataset, predictions are generated for test.csv.
+
+The submission file is created in the following format:
+
+ID,label
+1,category
+2,category
+3,category
+...
+
+The generated file is:   submission.csv
