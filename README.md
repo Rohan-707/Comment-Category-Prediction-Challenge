@@ -238,6 +238,7 @@ The final workflow can be summarized as:
                  │ Final Prediction │
                  └──────────────────┘
 ```
+---
 
 ## Submission
 
@@ -252,3 +253,41 @@ ID,label
 ...
 
 The generated file is:   submission.csv
+
+---
+
+## 💻 Technologies & Libraries
+
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Scikit-learn
+XGBoost
+LightGBM
+
+## Machine Learning Techniques
+Exploratory Data Analysis
+Feature Engineering
+TF-IDF
+Logistic Regression
+Random Forest
+XGBoost
+LightGBM
+Randomized Search
+Cross-Validation
+Stacking Ensemble
+
+---
+
+## ▶️ How to Run
+
+## 1. Clone the repository
+git clone https://github.com/Rohan-707/Comment-Category-Prediction-Challenge.git
+## 2. Navigate to the project
+cd Comment-Category-Prediction-Challenge
+## 3. Install the required libraries
+pip install requirements.txt
+## 4. Run the notebook
+Open the Jupyter Notebook: Then execute the cells sequentially.
