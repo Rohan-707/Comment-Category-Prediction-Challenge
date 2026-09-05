@@ -238,6 +238,7 @@ The final workflow can be summarized as:
                  │ Final Prediction │
                  └──────────────────┘
 
+---
 
 ## Submission
 
